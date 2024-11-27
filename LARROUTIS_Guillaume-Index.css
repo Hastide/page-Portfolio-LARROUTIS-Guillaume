@@ -1,0 +1,24 @@
+body {
+    background-color:#fef7da;
+    font-size:0.8em;
+    text-align:justify;
+    height:900px;
+    margin:0;
+}
+
+
+header{
+    background: url('images/separateur.png') repeat-x bottom;
+}
+#nav_tete{
+    display:flex;
+    justify-content:space-between;
+    position:relative;
+    top:60px;
+    right:20px;
+    width:400px;
+    border:solid; 
+}
+.gh_logo {
+	background-color:#fef7da;
+}

@@ -1,0 +1,21 @@
+ajouter : 
+	- informations de contacts                            &  
+	- présentation personnelle                            & 
+	- centre d'interêt                                    &
+	- compétences (avec diagramme des langages connus)    &
+	- expériences passées                                 & 
+	- contact                                             &
+
+
+TO DO : 
+	- écrire le portfolio                    & 
+	- coder le html / css                    &
+ 	- faire les vérifications réglementaires &
+	- vérification environnementale          & 
+	- relecture de consigne                  &
+	- envoie                                 &
+
+
+
+SOURCE :
+	flèche ul : https://www.cleanpng.com/png-github-computer-icons-node-js-circle-pack-1359496/5.html 
