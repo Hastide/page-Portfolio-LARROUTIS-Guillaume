@@ -2,9 +2,14 @@ lien image :
 
  - logo github : https://www.logo.wine/logo/GitHub
  - logo gmail: https://fr.wikipedia.org/wiki/Fichier:Logo_Gmail.jpg
- - logo discord : https://www.stickpng.com/fr/img/icones-logos-emojis/societes-de-technologie/logo-de-lapplication-discord
-
+ - logo discord : https://fr.vecteezy.com/art-vectoriel/6892625-discord-logo-icon-editorial-vector
 
 
 couleur:
 fond originel 1 : rgb(57, 160, 57)
+
+
+
+à ajouter : 
+	- expériences / projets passés
+	- 

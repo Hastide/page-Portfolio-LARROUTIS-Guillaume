@@ -6,19 +6,49 @@ body {
     margin:0;
     background-image:url("images/vecteezy_tropical-leaves-seamless-pattern_9210581-1.jpg");
     background-size:30em;
+    
+    text-align:center;
 }
-
-.corps{
+h1 {
+    text-align:center;
+}
+p {
+    margin-right:7em;
+    margin-left:7em;
+}
+#corps{
     display:flex;
     flex-direction: column;
+    box-shadow:0px 0px 30px #0e1a26;
+}
+#corps_de_la_page{
+    font-size:1.5em;
+    text-align:center;
+    text-align:justify;
 }
 header{
 	background-color:#0e1a26;
-    box-shadow: 30px 5px 5px #0e1a26;
+    box-shadow: 10px 5px 20px #0e1a26;
     position:relative;
+    display:flex; 
+    flex-direction:row;
+}
+#img_moi{
+    width:7em;
+    border-radius:1em;
+    border:solid;
+    border-color:black;
+    border-width:0.3em;
+    margin:auto;
+    display:block;
+    box-shadow: 0px 0px 60px black;
 }
 footer{
 	background-color:#0e1a26;
+    position:relative;
+    bottom:-5em;
+    box-shadow:top;
+    box-shadow: 0px 0px 30px #0e1a26;
 }
 #contacts {
     display:flex;
@@ -26,30 +56,74 @@ footer{
     justify-content:space-around;
 }
 #lien_github{
-    border:solid;
-    border-color:lightblue;
+    color:green;
+    text-decoration:none;
+}
+#lien_github:hover{
+    color:lightgreen;
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
+    text-decoration:none;
 }
 #gh_logo{
     width:05em;
     height:05em;
 }
+#gh_logo:hover{
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
+    }
+
+
+
+
+
 #mail{
-    border:solid;
-    border-color:blue;
+    color:green;
+    text-decoration:none;
+}
+#mail:hover{
+    color:lightgreen;
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
+    text-decoration:none;
 }
 #gmail_logo {
     width:05em;
     height:05em;
 }
+#gmail_logo:hover {
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
+}
+
+
+
+
 #discord{
-    color:red;
-    border:solid;
+    color:green;
+    text-decoration:none;
+}
+#discord:hover{
+    color:lightgreen;
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
+    text-decoration:none;
 }
 #dc_logo {
     width:05em;
     height:05em;
 }
+#dc_logo:hover {
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
+}
+
+
+
+
 .attributions{
     text-decoration:none;
     font-size:0.5em;
 }
+ 
