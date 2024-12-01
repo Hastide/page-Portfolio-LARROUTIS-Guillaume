@@ -1,21 +1,10 @@
-ajouter : 
-	- informations de contacts                            &  
-	- présentation personnelle                            & 
-	- centre d'interêt                                    &
-	- compétences (avec diagramme des langages connus)    &
-	- expériences passées                                 & 
-	- contact                                             &
+lien image : 
 
-
-TO DO : 
-	- écrire le portfolio                    & 
-	- coder le html / css                    &
- 	- faire les vérifications réglementaires &
-	- vérification environnementale          & 
-	- relecture de consigne                  &
-	- envoie                                 &
+ - logo github : https://www.logo.wine/logo/GitHub
+ - logo gmail: https://fr.wikipedia.org/wiki/Fichier:Logo_Gmail.jpg
+ - logo discord : https://www.stickpng.com/fr/img/icones-logos-emojis/societes-de-technologie/logo-de-lapplication-discord
 
 
 
-SOURCE :
-	flèche ul : https://www.cleanpng.com/png-github-computer-icons-node-js-circle-pack-1359496/5.html 
+couleur:
+fond originel 1 : rgb(57, 160, 57)

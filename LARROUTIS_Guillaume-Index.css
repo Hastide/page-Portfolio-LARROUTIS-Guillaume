@@ -1,24 +1,55 @@
 body {
-    background-color:#fef7da;
-    font-size:0.8em;
+    background-color:lightgreen;
+    font-size:1.8em;
+    color:white;
     text-align:justify;
-    height:900px;
     margin:0;
+    background-image:url("images/vecteezy_tropical-leaves-seamless-pattern_9210581-1.jpg");
+    background-size:30em;
 }
 
-
-header{
-    background: url('images/separateur.png') repeat-x bottom;
-}
-#nav_tete{
+.corps{
     display:flex;
-    justify-content:space-between;
-    position:relative;
-    top:60px;
-    right:20px;
-    width:400px;
-    border:solid; 
+    flex-direction: column;
 }
-.gh_logo {
-	background-color:#fef7da;
+header{
+	background-color:#0e1a26;
+    box-shadow: 30px 5px 5px #0e1a26;
+    position:relative;
+}
+footer{
+	background-color:#0e1a26;
+}
+#contacts {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+#lien_github{
+    border:solid;
+    border-color:lightblue;
+}
+#gh_logo{
+    width:05em;
+    height:05em;
+}
+#mail{
+    border:solid;
+    border-color:blue;
+}
+#gmail_logo {
+    width:05em;
+    height:05em;
+}
+#discord{
+    color:red;
+    border:solid;
+}
+#dc_logo {
+    width:05em;
+    height:05em;
+}
+.attributions{
+    text-decoration:none;
+    font-size:0.5em;
 }
