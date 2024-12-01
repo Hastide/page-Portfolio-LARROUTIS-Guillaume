@@ -6,11 +6,12 @@ body {
     margin:0;
     background-image:url("images/vecteezy_tropical-leaves-seamless-pattern_9210581-1.jpg");
     background-size:30em;
-    
     text-align:center;
+    text-shadow: 1px 4px 15px black;
 }
 h1 {
     text-align:center;
+    text-shadow: 1px 4px 15px black;
 }
 p {
     margin-right:7em;
@@ -19,7 +20,6 @@ p {
 #corps{
     display:flex;
     flex-direction: column;
-    box-shadow:0px 0px 30px #0e1a26;
 }
 #corps_de_la_page{
     font-size:1.5em;
@@ -32,6 +32,15 @@ header{
     position:relative;
     display:flex; 
     flex-direction:row;
+    justify-content:stretch;
+}
+.texte_nav{
+    text-decoration:none;
+    color:green;
+}
+.texte_nav:hover{
+    box-shadow: 0px 0px 30px white;
+    background-color:white;
 }
 #img_moi{
     width:7em;
